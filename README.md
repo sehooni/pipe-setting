@@ -1,4 +1,4 @@
-# pipe-setting
+# project-2021kscdc
 2021 기계학회 전국설계경진대회 동상 수상작 내 구성 알고리즘입니다.
 
 In this file, you can input of change setting through python.
